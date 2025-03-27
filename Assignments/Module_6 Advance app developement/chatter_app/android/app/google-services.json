@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552937312893",
+    "project_id": "chatte-app-4f56a",
+    "storage_bucket": "chatte-app-4f56a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552937312893:android:44ed21f220d42583701714",
+        "android_client_info": {
+          "package_name": "com.example.chatter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAubz6-KfGCN33QCn2YwsN69dbF2f7lV9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
